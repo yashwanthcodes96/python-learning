@@ -1,1 +1,2 @@
 Day 3 - Learning Git and GitHub.
+I am learning Git commits step by step.
