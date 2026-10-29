@@ -1,3 +1,4 @@
 Day 3 - Learning Git and GitHub.
 I am learning Git commits step by step.
 I will practise Git every day.
+I am learning how to use git diff.
